@@ -82,3 +82,28 @@ li a:hover:not(.active) {
 .active {
   background-color: #a90475;
 }
+
+
+.kleding {
+  width: 270px;
+  float: left;
+  margin: 1%;
+  text-align: center;
+}
+
+.kleding img {
+  width: 100%;
+  height: 350px;
+}
+.tassen {
+  width: 270px;
+  float: left;
+  margin: 1%;
+  text-align: center;
+}
+
+.tassen img{
+  width: 100%;
+  height: 350px;
+  
+}
