@@ -62,7 +62,9 @@ p {
   color: #694736;
   font-family: serif;"
 }
-
+i {
+  color: blue
+}
 li {
   float: left;
 }
